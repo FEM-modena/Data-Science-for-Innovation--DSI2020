@@ -35,3 +35,6 @@ Materiale corso di Data Science per le scuole secondarie
 **Week 9: Open Maps: Geospatial Data**
 
 **Week 10: Preparazione Data Challenge**
+
+
+DataCamp has offered free access to all the students of this course, to sign-up please click here: https://www.datacamp.com/groups/shared_links/0d3ede7fb199e97240d97e4d1d9230300d616ea6
