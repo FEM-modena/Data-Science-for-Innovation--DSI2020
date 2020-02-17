@@ -38,3 +38,4 @@ Materiale corso di Data Science per le scuole secondarie
 
 
 This class is supported [by DataCamp](https://www.datacamp.com/), the most intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.
+https://www.datacamp.com/groups/shared_links/0d3ede7fb199e97240d97e4d1d9230300d616ea6
